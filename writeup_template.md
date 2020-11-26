@@ -52,8 +52,11 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 The following is one of the outputs.
 
-[image1]: ./test_images_output/solidWhiteRight.jpg
+---
 
+[//]: # (Image References)
+[image1]: ./test_images_output/solidWhiteRight.jpg "output"
+---
 
 
 ### 2. Identify potential shortcomings with your current pipeline
