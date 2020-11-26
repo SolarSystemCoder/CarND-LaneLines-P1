@@ -14,8 +14,7 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./test_images_output/solidWhiteRight.jpg "output"
 
 ---
 
@@ -51,10 +50,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
            -> connected (bottom right x point, bottom right y point) and (940, a*100+b)
 
 The following is one of the outputs.
----
-[//]: # (Image References)
-[image1]: ./test_images_output/solidWhiteRight.jpg "output"
----
+
 ![alt text][image1]
 
 ### 2. Identify potential shortcomings with your current pipeline
